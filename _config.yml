@@ -2,7 +2,7 @@ title: Cebu taxi driver
 description: Cebu taxi driver for 10years I give guide for travelers and tips
 google_analytics: UA-64833024-1
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
 
 gems:
   - jekyll-mentions
